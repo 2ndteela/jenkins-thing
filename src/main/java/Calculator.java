@@ -3,6 +3,8 @@ import java.util.Random;
 
 class Calculator {
 
+    hahahhahahah
+
     Calculator(){
 
     }

@@ -3,11 +3,7 @@ import java.util.Random;
 
 class Calculator {
 
-    last test
-
-    Calculator(){
-
-    }
+    Calculator(){ }
 
     int add(int a , int b){
         return a + b;
